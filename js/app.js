@@ -7,7 +7,8 @@ $(document).ready( function() {
                   {name: "Ear Pods", price: "$29.99", image: "http://lorempixel.com/400/400/technics/5/"},
                   {name: "Sony Headphones", price: "$49.99", image: "http://lorempixel.com/400/400/technics/6/"},
                   {name: "Shure Earbuds", price: "$194.99", image: "http://lorempixel.com/400/400/technics/7/"},
-                  {name: "65\" HDTV", price: "$397.99", image: "http://lorempixel.com/400/400/technics/9/"}
+                  {name: "65\" HDTV", price: "$397.99", image: "http://lorempixel.com/400/400/technics/9/"},
+                  {name: "Sony gizmo", price: "$89.99", image: "http://lorempixel.com/400/400/technics/10/"}
   ];
 
   var output = "<div class=\"row\">";
